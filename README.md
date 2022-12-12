@@ -17,5 +17,5 @@ I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES
 | ------------- | ------------- |
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=synthwaves&compact=true&loc_metric=changed)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=synthwaves&loc_metric=changed)](https://githubtrends.io)
 
