@@ -1,4 +1,4 @@
-## Hi there!
+### Hi there!
 
 I'm Mingyang Ge From Zhejiang University, China. 
 
@@ -6,11 +6,19 @@ I'm Mingyang Ge From Zhejiang University, China.
 
 I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES)!
 
----
-
-<img src="./assets/svg/base.svg">
+<img src="./assets/svg/base">
 
 ---
+<div>
+  <img src="./assets/svg/base.svg" width="55%">
+  <a href="https://github.com/Dirreke"><img src="https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=synthwaves&loc_metric=changed" width="40%"></a>
+</div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=synthwaves&loc_metric=changed)](https://github.com/Dirreke)
 
+<table><tr><td valign="top" width="50%">
+
+  <img src="./assets/svg/notable.indepth.svg">
+  </td><td valign="top" width="50%">
+  <img src="./assets/svg/recent_activity.svg">
+
+</td></tr></table>
