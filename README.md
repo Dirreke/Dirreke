@@ -1,12 +1,10 @@
-### Hi there!
+### Hey! I'm Dirreke!
 
-I'm Mingyang Ge From Zhejiang University, China. 
+I'm Dirreke From Zhejiang University, China. 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES)!
-
-<img src="./assets/svg/base">
 
 ---
 <div>
