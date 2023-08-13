@@ -15,11 +15,11 @@ I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES
 # My Contributions
 
 <div>
-<img src="./assets/svg/notable.indepth.svg", width="80%">
+<img src="./assets/svg/notable.indepth.svg", width="70%">
 </div>
 
 # Recent Activity
 
 <div>
-<img src="./assets/svg/recent_activity.svg", width="80%">
+<img src="./assets/svg/recent_activity.svg", width="70%">
 </div>
