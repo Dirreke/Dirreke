@@ -9,7 +9,7 @@ I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES
 ---
 <div>
   <img src="./assets/svg/base.svg" width="55%">
-  <a href="https://github.com/Dirreke"><img src="https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=synthwaves&loc_metric=changed" width="40%"></a>
+  <a href="https://github.com/Dirreke"><img src="https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=classic&loc_metric=changed" width="40%"></a>
 </div>
 
 # My Contributions
