@@ -15,7 +15,7 @@ I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES
 # My Contributions
 
 <div>
-<img src="./assets/svg/notable.indepth.svg", width="100%">
+<img src="./assets/svg/notable.indepth.svg", width="80%">
 </div>
 
 <table><tr><td valign="top" width="50%">
