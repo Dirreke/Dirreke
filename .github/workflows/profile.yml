@@ -52,6 +52,7 @@ jobs:
           # plugin_notable_skipped: sgoolweb
           plugin_followup: yes
           plugin_followup_sections: user
+          plugin_activity_visibility: public
           # plugin_activity: yes
           # plugin_activity_limit: 5
           # plugin_activity_days: 0
