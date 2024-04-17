@@ -1,10 +1,12 @@
 # Hey! I'm Dirreke!
 
-I'm Dirreke From Zhejiang University, China. 
-
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-I'm working on the Electrical Engineering (EE) and Integrated Energy System (IES)!
+# 👨🏻‍💻  About Me
+
+- 🔭I'm currently a Ph.D student from Zhejiang University, China!
+- ⚡My main research direction is Electrical Engineering (EE) and Integrated Energy System (IES)!
+- 🦀 I'm also a Rust full stack developer!
 
 ---
 <div>
