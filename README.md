@@ -9,6 +9,7 @@
 - 🦀 I'm also a Rust full stack developer!
 
 ---
+
 <div>
   <img src="./assets/svg/base.svg" width="55%">
   <a href="https://github.com/Dirreke"><img src="https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=one_year&include_private=True&theme=classic&loc_metric=changed" width="40%"></a>
@@ -18,10 +19,4 @@
 
 <div>
 <img src="./assets/svg/notable.indepth.svg", width="70%">
-</div>
-
-# Recent Activity
-
-<div>
-<img src="./assets/svg/recent_activity.svg", width="70%">
 </div>
