@@ -10,16 +10,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: assets/svg/recent_activity.svg
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, review
-          plugin_activity_visibility: public
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     filename: assets/svg/recent_activity.svg
+      #     base: ""
+      #     plugin_activity: yes
+      #     plugin_activity_limit: 5
+      #     plugin_activity_days: 0
+      #     plugin_activity_filter: issue, pr, release, review
+      #     plugin_activity_visibility: public
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/svg/notable.indepth.svg
