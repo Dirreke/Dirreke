@@ -4,7 +4,8 @@
 
 # 👨🏻‍💻  About Me
 
-- 🔭I'm a Ph.D student of Zhejiang University, China and currently studied at Imperial College London as a visiting student!
+- 🔭I'm a Ph.D student of Zhejiang University, China
+- 🔭I'm currently studied at Imperial College London as a visiting student!
 - ⚡My main research direction is Electrical Engineering (EE) and Integrated Energy System (IES)!
 - 🦀 I'm also a Rust full stack developer!
 
