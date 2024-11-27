@@ -30,6 +30,7 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_skipped: sgoolweb
+          plugin_notable_from: all
       # - uses: lowlighter/metrics@latest
       #   with:
       #     filename: assets/svg/followup.user.svg
