@@ -13,6 +13,8 @@
 
 <div>
   <img src="./assets/svg/base.svg" width="55%">
+  <a href="https://github.com/Dirreke"><img src="https://api.githubtrends.io/user/svg/Dirreke/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic" width="40%"></a>
+  
 </div>
 
 # My Contributions
