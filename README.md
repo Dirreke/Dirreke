@@ -7,7 +7,7 @@
 - 🔭I'm currently studied at Imperial College London as a visiting student!
 - 🔭I'm a Ph.D student of Zhejiang University, China
 - ⚡My main research direction is Electrical Engineering (EE) and Integrated Energy System (IES)!
-- 🦀 I'm also a Rust full stack developer with more than 100k+ lines of code!
+- 🦀 I'm also a Rust full stack developer and a top 1% open-source contributor in the Rust community, with more than 100k+ lines of code!
 
 ---
 
